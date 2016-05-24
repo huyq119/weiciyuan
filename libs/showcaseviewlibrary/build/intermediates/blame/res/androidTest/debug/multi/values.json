@@ -1,0 +1,230 @@
+[
+    {
+        "outputFile": "F:\\code\\weiciyuan\\libs\\showcaseviewlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 44,
+                    "endOffset": 797
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\libs\\showcaseviewlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 757,
+                        "endColumn": 44,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 802,
+                    "endColumn": 46,
+                    "endOffset": 844
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\libs\\showcaseviewlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 46,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 849,
+                    "endColumn": 48,
+                    "endOffset": 893
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\libs\\showcaseviewlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 48,
+                        "endOffset": 893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 898,
+                    "endColumn": 33,
+                    "endOffset": 927
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\libs\\showcaseviewlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 898,
+                        "endColumn": 33,
+                        "endOffset": 927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 932,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1491
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\libs\\showcaseviewlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 932,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1496,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1832
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\libs\\showcaseviewlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1496,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1837,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 2185
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\libs\\showcaseviewlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1837,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 2185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2190,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2344
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\libs\\showcaseviewlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2190,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 2344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2349,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2578
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\libs\\showcaseviewlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2349,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 2578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2583,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2742
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\libs\\showcaseviewlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2583,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 2742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2747,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 2865
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\libs\\showcaseviewlibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2747,
+                        "endLine": 44,
+                        "endColumn": 12,
+                        "endOffset": 2865
+                    }
+                }
+            }
+        ]
+    }
+]

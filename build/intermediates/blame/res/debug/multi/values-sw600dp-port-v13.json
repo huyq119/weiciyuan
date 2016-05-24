@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-port-v13\\values-sw600dp-port-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\res\\values-sw600dp-port\\bool.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 43,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 71,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 85,
+                        "endColumn": 71,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 43,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\res\\values-sw600dp-port\\slidingmenu_dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 71,
+                        "endColumn": 43,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 43,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\res\\values-sw600dp-port\\slidingmenu_dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 43,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 50,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\res\\values-sw600dp-port\\slidingmenu_dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 50,
+                        "endOffset": 65
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 40,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\res\\values-sw600dp-port\\slidingmenu_dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 40,
+                        "endOffset": 199
+                    }
+                }
+            }
+        ]
+    }
+]

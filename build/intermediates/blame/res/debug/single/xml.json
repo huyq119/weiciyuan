@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\xml\\changelog.xml",
+        "source": "F:\\code\\weiciyuan\\res\\xml\\changelog.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\xml\\read_pref.xml",
+        "source": "F:\\code\\weiciyuan\\res\\xml\\read_pref.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\xml\\notification_pref.xml",
+        "source": "F:\\code\\weiciyuan\\res\\xml\\notification_pref.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\xml\\control_pref.xml",
+        "source": "F:\\code\\weiciyuan\\res\\xml\\control_pref.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\xml\\performance_pref.xml",
+        "source": "F:\\code\\weiciyuan\\res\\xml\\performance_pref.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\xml\\appearance_pref.xml",
+        "source": "F:\\code\\weiciyuan\\res\\xml\\appearance_pref.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\xml\\other_pref.xml",
+        "source": "F:\\code\\weiciyuan\\res\\xml\\other_pref.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "F:\\code\\weiciyuan\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\xml\\slidingmenu_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\xml\\slidingmenu_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\xml\\pref.xml",
+        "source": "F:\\code\\weiciyuan\\res\\xml\\pref.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\xml\\about_pref.xml",
+        "source": "F:\\code\\weiciyuan\\res\\xml\\about_pref.xml"
+    }
+]

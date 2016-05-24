@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\list_layout_controller.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\list_layout_controller.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\timeline_pic_fade_out.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\timeline_pic_fade_out.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_down.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\slide_out_down.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\timeline_pic_fade_in.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\timeline_pic_fade_in.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\activity_swipe_right_close_exit.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\activity_swipe_right_close_exit.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\activity_swipe_right_close_enter.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\activity_swipe_right_close_enter.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\refresh.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\refresh.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\list_layut_alpha.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\list_layut_alpha.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\stay.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\stay.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\account_delete_slide_out_right.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\account_delete_slide_out_right.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\alphain.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\alphain.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_up.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\swipe_right_to_close.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\swipe_right_to_close.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\anim\\alphaout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\anim\\alphaout.xml"
+    }
+]

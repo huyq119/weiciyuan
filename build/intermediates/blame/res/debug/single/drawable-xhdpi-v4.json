@@ -1,0 +1,550 @@
+[
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\portrait_v_yellow.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\portrait_v_yellow.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\emoticon_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\emoticon_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_48_inner_holo.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\location_map_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\location_map_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\write_dm_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\write_dm_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_notification.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\repost_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\repost_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\maintimelineactivity_settings_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\maintimelineactivity_settings_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edit_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\edit_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\location_place_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\location_place_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\location_map_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\location_map_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_ab_pressed_holo_dark.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\account_spinner_icon.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\account_spinner_icon.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_share_holo_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\close_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\close_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fav_un_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\fav_un_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\upload_white.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\upload_white.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_cling_normal.9.png",
+        "source": "F:\\code\\weiciyuan\\build\\intermediates\\exploded-aar\\weiciyuan.libs\\showcaseviewlibrary\\unspecified\\res\\drawable-xhdpi-v4\\btn_cling_normal.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\timeline_pic_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\timeline_pic_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\timeline_comment_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\timeline_comment_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\comment_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\comment_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abs__ab_bottom_solid_dark_holo.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\abs__ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_action_next.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\notification_action_next.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\at_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\at_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_filter.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_filter.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\maintimelineactivity_account_management_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\maintimelineactivity_account_management_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\save_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\save_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_msg_white.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\new_msg_white.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_large_image.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_menu_large_image.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\location_place_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\location_place_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\divider.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\divider.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\web_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\web_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_fullscreen.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_menu_fullscreen.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\account_management_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\account_management_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_48_outer_holo.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\at_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\at_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_search.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_menu_search.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\timeline_pic_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\timeline_pic_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_fav.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_menu_fav.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\send_failed.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\send_failed.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\search_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fav_un_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\fav_un_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\share_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\share_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cling.png",
+        "source": "F:\\code\\weiciyuan\\build\\intermediates\\exploded-aar\\weiciyuan.libs\\showcaseviewlibrary\\unspecified\\res\\drawable-xhdpi-v4\\cling.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cling_bleached.png",
+        "source": "F:\\code\\weiciyuan\\build\\intermediates\\exploded-aar\\weiciyuan.libs\\showcaseviewlibrary\\unspecified\\res\\drawable-xhdpi-v4\\cling_bleached.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clickable_flag_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\clickable_flag_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\timeline_load_more_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\timeline_load_more_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\topic_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\topic_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\download_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\download_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\reply_to_comment_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\reply_to_comment_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\timeline_repost_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\timeline_repost_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_settings.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_menu_settings.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\send_successfully.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\send_successfully.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\error_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\error_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\timeline_repost_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\timeline_repost_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\statusnewactivity_send_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\statusnewactivity_send_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\copy_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\copy_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_light_off.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\camera_light_off.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_download.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_menu_download.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\comment_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\comment_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_tacos.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\bg_tacos.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\timeline_gps_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\timeline_gps_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\accountactivity_new_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\accountactivity_new_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_cling_pressed.9.png",
+        "source": "F:\\code\\weiciyuan\\build\\intermediates\\exploded-aar\\weiciyuan.libs\\showcaseviewlibrary\\unspecified\\res\\drawable-xhdpi-v4\\btn_cling_pressed.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_ab_disabled_holo_dark.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\picture_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\picture_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ab_bottom_solid_inverse_holo.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ab_bottom_solid_inverse_holo.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\reply_to_comment_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\reply_to_comment_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\share_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\share_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_profile.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_menu_profile.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_light_on.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\camera_light_on.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\account_management_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\account_management_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ab_stacked_solid_inverse_holo.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ab_stacked_solid_inverse_holo.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ab_solid_custom_blue_inverse_holo.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ab_solid_custom_blue_inverse_holo.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_play_gif.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_play_gif.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_dark_on.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\camera_dark_on.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\avatar_enterprise_vip.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\avatar_enterprise_vip.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_message.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_menu_message.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_point_off.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_point_off.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\accountactivity_new_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\accountactivity_new_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_play_gif_small.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_play_gif_small.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\send_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\send_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\refresh_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\refresh_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\accountactivity_remove_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\accountactivity_remove_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abs__ab_solid_dark_holo.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\abs__ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\avatar_vip.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\avatar_vip.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\refresh_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\refresh_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ab_bottom_solid_light_holo.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_dark_off.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\camera_dark_off.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\maintimelineactivity_account_management_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\maintimelineactivity_account_management_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\error_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\error_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abs__ab_stacked_solid_dark_holo.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\abs__ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\accountactivity_remove_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\accountactivity_remove_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_sync.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_menu_sync.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fav_en_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\fav_en_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_location.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_menu_location.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edit_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\edit_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_ab_default_holo_dark.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\timeline_load_more_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\timeline_load_more_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\statusnewactivity_gps_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\statusnewactivity_gps_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\save_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\save_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clickable_flag_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\clickable_flag_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_card_white.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\bg_card_white.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\statusnewactivity_send_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\statusnewactivity_send_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_ab_focused_holo_dark.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_point_on.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_point_on.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\maintimelineactivity_settings_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\maintimelineactivity_settings_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\web_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\web_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\friendstimelinefragment_write_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\friendstimelinefragment_write_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_login.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_menu_login.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\friendstimelinefragment_write_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\friendstimelinefragment_write_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_logout.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_menu_logout.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\write_dm_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\write_dm_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_home.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_menu_home.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fav_en_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\fav_en_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_action_previous.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\notification_action_previous.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\timeline_comment_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\timeline_comment_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_copy.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_menu_copy.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_share.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\close_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\close_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ab_bottom_transparent_dark_holo.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\account_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\account_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\topic_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\topic_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\copy_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\copy_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\statusnewactivity_gps_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\statusnewactivity_gps_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_divider_holo_light.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\alipay.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\alipay.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_ab_friendship.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\ic_ab_friendship.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hand.png",
+        "source": "F:\\code\\weiciyuan\\build\\intermediates\\exploded-aar\\weiciyuan.libs\\showcaseviewlibrary\\unspecified\\res\\drawable-xhdpi-v4\\hand.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\emoticon_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\emoticon_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\send_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\send_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\repost_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\repost_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_divider_holo_dark.9.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\search_dark.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\timeline_gps_light.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\timeline_gps_light.png"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\account_dark.png",
+        "source": "F:\\code\\weiciyuan\\res\\drawable-xhdpi\\account_dark.png"
+    }
+]

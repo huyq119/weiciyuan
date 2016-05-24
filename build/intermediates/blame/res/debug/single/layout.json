@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\browserweibomsgactivity_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\browserweibomsgactivity_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\maintimelineactivity_title_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\maintimelineactivity_title_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\emotions_fragment_gridview_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\emotions_fragment_gridview_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\browserweibomsgfragment_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\browserweibomsgfragment_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\filteractivity_title_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\filteractivity_title_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\widget_listviewmiddlemsgloadingview.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\widget_listviewmiddlemsgloadingview.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\galleryactivity_animation_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\galleryactivity_animation_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_with_bg_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\viewpager_with_bg_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\browserweibomsgfragment_empty_header.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\browserweibomsgfragment_empty_header.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\editmyprofileactivity_refresh_actionbar_view_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\editmyprofileactivity_refresh_actionbar_view_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\timelineimageview_avatar_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\timelineimageview_avatar_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\repostsbyidtimelinefragment_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\repostsbyidtimelinefragment_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\managegroupdialog_title_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\managegroupdialog_title_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\listview_header_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\listview_header_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_general_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\gallery_general_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_contents.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\drawer_contents.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\dmconversationlistfragment_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\dmconversationlistfragment_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\accountactivity_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\accountactivity_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\viewpager_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\userinfofragment_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\userinfofragment_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\dm_user_list_listview_item_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\dm_user_list_listview_item_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\newuserinfofragment_refresh_actionbar_view_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\newuserinfofragment_refresh_actionbar_view_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\menu_right.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\menu_right.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_large_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\gallery_large_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\galleryactivity_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\galleryactivity_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_gif_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\gallery_gif_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\dmconversationadapter_item_normal_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\dmconversationadapter_item_normal_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\timeline_listview_item_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\timeline_listview_item_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\timelineimageview_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\timelineimageview_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_container_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\gallery_container_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\writeweiboactivity_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\writeweiboactivity_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\timeline_listview_item_big_pic_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\timeline_listview_item_big_pic_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\browserbigpicactivity_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\browserbigpicactivity_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\galleryactivity_item.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\galleryactivity_item.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\newuserinfofragment_header_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\newuserinfofragment_header_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\browserpicturedialog_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\browserpicturedialog_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_selector_text_view.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\spinner_selector_text_view.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\simple_listview_item.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\simple_listview_item.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\handy.xml",
+        "source": "F:\\code\\weiciyuan\\build\\intermediates\\exploded-aar\\weiciyuan.libs\\showcaseviewlibrary\\unspecified\\res\\layout\\handy.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\writeweiboactivity_title_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\writeweiboactivity_title_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\ab_tab_custom_view_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\ab_tab_custom_view_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\useravatardialog_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\useravatardialog_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\abstractwriteactivity_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\abstractwriteactivity_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\browserwebfragment_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\browserwebfragment_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\browserwebactivity_title_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\browserwebactivity_title_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\commentsbyidtimelinefragment_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\commentsbyidtimelinefragment_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\dm_search_user_dropdown_item_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\dm_search_user_dropdown_item_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\dmconversationadapter_item_myself_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\dmconversationadapter_item_myself_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\listview_footer_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\timeline_listview_item_middle_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\timeline_listview_item_middle_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\listview_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\listview_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\editmyprofileactivity_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\editmyprofileactivity_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\slidingdrawer_contents.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\slidingdrawer_contents.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\accountactivity_listview_item_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\accountactivity_listview_item_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\galleryfragment_animation_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\galleryfragment_animation_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\managegroupactivity_list_item_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\managegroupactivity_list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\browserweibomsgfragment_progress_header.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\browserweibomsgfragment_progress_header.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_action_view.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\refresh_action_view.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\newuserinfofragment_header_viewpager_first_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\newuserinfofragment_header_viewpager_first_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\smileypicker_gridview.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\smileypicker_gridview.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\writeweiboactivity_smileypicker.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\writeweiboactivity_smileypicker.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\newuserinfofragment_header_viewpager_second_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\newuserinfofragment_header_viewpager_second_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\blackmagicactivity_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\blackmagicactivity_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\writeweiboactivity_smileypicker_item.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\writeweiboactivity_smileypicker_item.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\user_listview_item_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\user_listview_item_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\timeline_listview_item_simple_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\timeline_listview_item_simple_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\slidingdrawer_avatar.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\slidingdrawer_avatar.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\newuserinfofragment_header_viewpager_third_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\newuserinfofragment_header_viewpager_third_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\newuserinfofragment_more_footer.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\newuserinfofragment_more_footer.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\profileimageview_avatar_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\profileimageview_avatar_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\dm_conversation_list_listview_item_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\dm_conversation_list_listview_item_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\dmselectuseractivity_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\dmselectuseractivity_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\browserweibomsgfragment_switch_list_type_header.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\browserweibomsgfragment_switch_list_type_header.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\userinfoactivity_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\userinfoactivity_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "F:\\code\\weiciyuan\\build\\intermediates\\exploded-aar\\weiciyuan.libs\\slidingmenulibrary\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\dmselectuseractivity_title_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\dmselectuseractivity_title_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\weibodetailimageview_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\weibodetailimageview_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\newuserinfofragment_progress_footer.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\newuserinfofragment_progress_footer.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\oauthactivity_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\oauthactivity_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\menu_frame.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\menu_frame.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\slidingdrawer_avatar_dropdown.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\slidingdrawer_avatar_dropdown.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\myinfofragment_layout.xml",
+        "source": "F:\\code\\weiciyuan\\res\\layout\\myinfofragment_layout.xml"
+    },
+    {
+        "merged": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\layout\\showcase_button.xml",
+        "source": "F:\\code\\weiciyuan\\build\\intermediates\\exploded-aar\\weiciyuan.libs\\showcaseviewlibrary\\unspecified\\res\\layout\\showcase_button.xml"
+    }
+]

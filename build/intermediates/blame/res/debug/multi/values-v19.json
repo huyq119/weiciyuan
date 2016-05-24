@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "F:\\code\\weiciyuan\\build\\intermediates\\res\\merged\\debug\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "F:\\code\\weiciyuan\\res\\values-v19\\theme_gallery.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 273
+                    }
+                }
+            }
+        ]
+    }
+]

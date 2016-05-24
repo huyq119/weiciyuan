@@ -1,0 +1,449 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:2:1-277:12
+	xmlns:android
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:2:11-69
+	package
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:3:11-38
+		INJECTED from F:\code\weiciyuan\AndroidManifest.xml
+		INJECTED from F:\code\weiciyuan\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:5:5-32
+		INJECTED from F:\code\weiciyuan\AndroidManifest.xml
+		INJECTED from F:\code\weiciyuan\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:4:5-29
+		INJECTED from F:\code\weiciyuan\AndroidManifest.xml
+		INJECTED from F:\code\weiciyuan\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:7:5-9:38
+	android:required
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:9:13-36
+	android:glEsVersion
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:8:13-45
+uses-permission#android.permission.INTERNET
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:14:5-78
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.NFC
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:15:5-61
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:15:22-59
+uses-permission#android.permission.VIBRATE
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:16:22-63
+application
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:19:5-275:19
+MERGED from [com.android.support:support-v4:21.0.0] F:\code\weiciyuan\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.0] F:\code\weiciyuan\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.0] F:\code\weiciyuan\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:20:13-45
+	android:allowBackup
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:24:13-39
+	android:icon
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:21:13-49
+	android:theme
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:22:13-50
+	android:largeHeap
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:25:13-73
+meta-data#com.crashlytics.ApiKey
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:27:9-28:78
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:27:20-57
+	android:value
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:28:20-76
+activity#org.qii.weiciyuan.ui.login.AccountActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:31:9-38:20
+	android:uiOptions
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:33:17-61
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:32:17-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:35:17-68
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:36:27-74
+activity#org.qii.weiciyuan.ui.login.OAuthActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:42:9-59
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:42:19-57
+activity#org.qii.weiciyuan.ui.login.SSOActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:43:9-57
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:43:19-55
+activity#org.qii.weiciyuan.ui.main.MainTimeLineActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:46:9-48:50
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:47:17-61
+	android:launchMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:48:17-48
+activity#org.qii.weiciyuan.ui.send.WriteWeiboActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:51:9-65:20
+	android:windowSoftInputMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:54:17-72
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:52:17-59
+	android:launchMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:53:17-47
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:55:13-59:29
+action#android.intent.action.SEND
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:56:17-68
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:56:25-66
+category#android.intent.category.DEFAULT
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:57:17-75
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:57:27-73
+data
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:58:17-51
+	android:mimeType
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:58:23-49
+	android:scheme
+		INJECTED from F:\code\weiciyuan\AndroidManifest.xml
+		INJECTED from F:\code\weiciyuan\AndroidManifest.xml
+activity#org.qii.weiciyuan.ui.send.WriteRepostActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:67:9-69:74
+	android:windowSoftInputMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:69:17-72
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:68:17-60
+activity#org.qii.weiciyuan.ui.send.WriteCommentActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:70:9-72:74
+	android:windowSoftInputMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:72:17-72
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:71:17-61
+activity#org.qii.weiciyuan.ui.send.WriteReplyToCommentActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:73:9-75:74
+	android:windowSoftInputMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:75:17-72
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:74:17-68
+activity#org.qii.weiciyuan.ui.browser.BrowserWeiboMsgActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:78:9-83:49
+	android:label
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:83:17-47
+	android:uiOptions
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:81:17-61
+	android:theme
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:80:17-54
+	android:exported
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:82:17-41
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:79:17-67
+activity#org.qii.weiciyuan.ui.browser.BrowserCommentActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:84:9-86:57
+	android:label
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:86:17-55
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:85:17-66
+activity#org.qii.weiciyuan.support.gallery.GalleryActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:87:9-90:49
+	android:theme
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:89:17-52
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:88:17-64
+	android:launchMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:90:17-47
+activity#org.qii.weiciyuan.support.gallery.GalleryAnimationActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:91:9-95:49
+	android:configChanges
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:94:17-78
+	android:theme
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:93:17-52
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:92:17-73
+	android:launchMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:95:17-47
+activity#org.qii.weiciyuan.ui.browser.BrowserWriteWeiboLocalPicActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:96:9-99:49
+	android:uiOptions
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:98:17-61
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:97:17-77
+	android:launchMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:99:17-47
+activity#org.qii.weiciyuan.ui.browser.BrowserWebActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:100:9-128:20
+	android:uiOptions
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:102:17-61
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:101:17-62
+	android:launchMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:103:17-48
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:104:13-127:29
+action#android.intent.action.VIEW
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:105:17-68
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:105:25-66
+activity#org.qii.weiciyuan.ui.browser.BrowserShareTimeLineActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:129:9-76
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:129:19-74
+activity#org.qii.weiciyuan.ui.browser.AppMapActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:130:9-132:49
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:131:17-58
+	android:launchMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:132:17-47
+activity#org.qii.weiciyuan.ui.topic.SearchTopicByNameActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:136:9-145:20
+	android:label
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:138:17-53
+	android:uiOptions
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:139:17-61
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:137:17-67
+activity#org.qii.weiciyuan.ui.topic.UserTopicListActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:146:9-67
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:146:19-65
+activity#org.qii.weiciyuan.ui.userinfo.UserInfoActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:149:9-162:20
+	android:theme
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:151:17-54
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:150:17-61
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:157:13-161:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:158:17-76
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:158:25-74
+activity#org.qii.weiciyuan.ui.userinfo.UserTimeLineActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:163:9-69
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:163:19-67
+activity#org.qii.weiciyuan.ui.userinfo.MyInfoActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:164:9-167:49
+	android:theme
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:166:17-54
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:165:17-59
+	android:launchMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:167:17-47
+activity#org.qii.weiciyuan.ui.userinfo.EditMyProfileActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:168:9-170:49
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:169:17-66
+	android:launchMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:170:17-47
+activity#org.qii.weiciyuan.ui.userinfo.FriendListActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:171:9-173:49
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:172:17-63
+	android:launchMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:173:17-47
+activity#org.qii.weiciyuan.ui.userinfo.FanListActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:174:9-176:49
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:175:17-60
+	android:launchMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:176:17-47
+activity#org.qii.weiciyuan.ui.userinfo.MyFavActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:177:9-179:49
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:178:17-58
+	android:launchMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:179:17-47
+activity#org.qii.weiciyuan.ui.search.SearchMainActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:183:9-192:20
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:184:17-61
+	android:launchMode
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:185:17-47
+intent-filter#android.intent.action.SEARCH
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:186:13-188:29
+action#android.intent.action.SEARCH
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:187:17-70
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:187:25-68
+meta-data#android.app.searchable
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:189:13-191:57
+	android:resource
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:191:21-55
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:190:21-58
+activity#org.qii.weiciyuan.ui.search.AtUserActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:193:9-61
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:193:19-59
+activity#org.qii.weiciyuan.ui.friendgroup.ManageGroupActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:196:9-71
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:196:19-69
+activity#org.qii.weiciyuan.ui.nearby.NearbyTimeLineActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:199:9-69
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:199:19-67
+activity#org.qii.weiciyuan.ui.preference.SettingActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:202:9-66
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:202:19-64
+activity#org.qii.weiciyuan.ui.preference.ControlActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:204:9-209:20
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:204:19-64
+intent-filter#android.intent.action.MANAGE_NETWORK_USAGE+android.intent.category.DEFAULT
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:205:13-208:29
+action#android.intent.action.MANAGE_NETWORK_USAGE
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:206:17-84
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:206:25-82
+activity#org.qii.weiciyuan.ui.preference.NotificationActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:210:9-71
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:210:19-69
+activity#org.qii.weiciyuan.ui.preference.DraftActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:211:9-213:63
+	android:uiOptions
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:213:17-61
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:212:17-60
+activity#org.qii.weiciyuan.ui.preference.FilterActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:214:9-216:63
+	android:uiOptions
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:216:17-61
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:215:17-61
+activity#org.qii.weiciyuan.ui.preference.AppearanceActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:217:9-219:63
+	android:uiOptions
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:219:17-61
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:218:17-65
+activity#org.qii.weiciyuan.ui.preference.ReadActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:220:9-63
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:220:19-61
+activity#org.qii.weiciyuan.ui.preference.PerformanceActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:221:9-70
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:221:19-68
+activity#org.qii.weiciyuan.ui.preference.OtherActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:222:9-64
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:222:19-62
+activity#org.qii.weiciyuan.ui.preference.AboutActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:223:9-64
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:223:19-62
+activity#org.qii.weiciyuan.ui.preference.LicenseActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:224:9-226:76
+	android:theme
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:226:17-74
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:225:17-62
+service#org.qii.weiciyuan.othercomponent.FetchNewMsgService
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:230:9-69
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:230:18-67
+service#org.qii.weiciyuan.othercomponent.sendweiboservice.SendWeiboService
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:231:9-84
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:231:18-82
+service#org.qii.weiciyuan.othercomponent.sendweiboservice.SendRepostService
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:232:9-85
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:232:18-83
+service#org.qii.weiciyuan.othercomponent.sendweiboservice.SendCommentService
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:233:9-86
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:233:18-84
+service#org.qii.weiciyuan.othercomponent.sendweiboservice.SendReplyToCommentService
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:234:9-93
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:234:18-91
+service#org.qii.weiciyuan.othercomponent.unreadnotification.JBMentionsWeiboNotificationServiceHelper
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:236:9-237:109
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:237:17-107
+service#org.qii.weiciyuan.othercomponent.unreadnotification.JBMentionsCommentNotificationServiceHelper
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:238:9-239:111
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:239:17-109
+service#org.qii.weiciyuan.othercomponent.unreadnotification.JBCommentsToMeNotificationServiceHelper
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:240:9-241:108
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:241:17-106
+service#org.qii.weiciyuan.othercomponent.unreadnotification.BigTextNotificationService
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:242:9-96
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:242:18-94
+service#org.qii.weiciyuan.othercomponent.unreadnotification.SimpleTextNotificationService
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:243:9-99
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:243:18-97
+receiver#org.qii.weiciyuan.othercomponent.ConnectionChangeReceiver
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:253:9-259:20
+	android:label
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:255:17-50
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:254:17-72
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:256:13-258:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:257:17-78
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:257:25-76
+provider#org.qii.weiciyuan.ui.search.SearchSuggestionProvider
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:262:9-265:92
+	android:exported
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:263:17-41
+	android:authorities
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:265:17-90
+		INJECTED from F:\code\weiciyuan\AndroidManifest.xml
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:264:17-67
+activity#org.qii.weiciyuan.ui.blackmagic.BlackMagicActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:268:9-69
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:268:19-67
+activity#org.qii.weiciyuan.ui.dm.DMActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:271:9-53
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:271:19-51
+activity#org.qii.weiciyuan.ui.dm.DMUserListActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:272:9-61
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:272:19-59
+activity#org.qii.weiciyuan.ui.dm.DMSelectUserActivity
+ADDED from F:\code\weiciyuan\AndroidManifest.xml:273:9-63
+	android:name
+		ADDED from F:\code\weiciyuan\AndroidManifest.xml:273:19-61
+uses-sdk
+INJECTED from F:\code\weiciyuan\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:21.0.0] F:\code\weiciyuan\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\AndroidManifest.xml:15:5-42
+MERGED from [weiciyuan.libs:slidingmenulibrary:unspecified] F:\code\weiciyuan\build\intermediates\exploded-aar\weiciyuan.libs\slidingmenulibrary\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.0] F:\code\weiciyuan\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\AndroidManifest.xml:15:5-42
+MERGED from [weiciyuan.libs:showcaseviewlibrary:unspecified] F:\code\weiciyuan\build\intermediates\exploded-aar\weiciyuan.libs\showcaseviewlibrary\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.0] F:\code\weiciyuan\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		INJECTED from F:\code\weiciyuan\AndroidManifest.xml
+		INJECTED from F:\code\weiciyuan\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\code\weiciyuan\AndroidManifest.xml
+		INJECTED from F:\code\weiciyuan\AndroidManifest.xml
